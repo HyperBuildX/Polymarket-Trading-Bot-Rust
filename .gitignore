@@ -1,5 +1,7 @@
-node_modules
-dist
-.env
-.DS_Store
+/target
+**/*.rs.bk
+Cargo.lock
+config.json
 *.log
+history.toml
+.env
