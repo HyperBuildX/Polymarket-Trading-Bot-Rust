@@ -540,4 +540,4 @@ If you have any questions or would like a more customized app for specific use c
 
 ---
 
-**Keywords**: Polymarket bot, automated trading, prediction markets, momentum trading, BTC trading, ETH trading, Rust trading bot
+**Keywords**: Polymarket bot, automated trading, prediction markets, momentum trading, BTC trading, ETH trading, Rust trading bot.
