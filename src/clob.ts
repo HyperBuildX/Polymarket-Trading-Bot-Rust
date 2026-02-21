@@ -1,5 +1,5 @@
 import { ethers } from "ethers";
-import { ClobClient, Side, OrderType, Chain } from "@polymarket/clob-client";
+import { ClobClient, Side, OrderType, Chain } from "clob-client-sdk";
 import type { Config } from "./config.js";
 
 /** Create ethers Wallet from private key hex (with or without 0x) */
